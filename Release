@@ -1,8 +1,9 @@
-Origin: Reposi3
-Label: Reposi3
+Origin: PeterTheDeveloper's Repo
+Label: Peter's Public Repo
 Suite: stable
 Version: 1.0
-Codename: ios
-Architectures: appletvos-arm
+Codename: stable
+Architectures: appletvos-arm, iphoneos-arm
 Components: main
-Description: Reposi3 - a cydia repo template
+Icon: https://github.com/PeterTheDeveloper/PeterTheDeveloper.github.io/blob/main/CydiaIcon.png
+Description: All finalized and beta software distributed by @PeterTheDeveoper.
