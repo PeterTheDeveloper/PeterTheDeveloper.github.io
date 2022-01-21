@@ -3,7 +3,7 @@ Label: Peter's Public Repo
 Suite: stable
 Version: 1.0
 Codename: stable
-Architectures: appletvos-arm, iphoneos-arm
+Architectures: appletvos-arm
 Components: main
 Icon: https://github.com/PeterTheDeveloper/PeterTheDeveloper.github.io/blob/main/CydiaIcon.png
 Description: All finalized and beta software distributed by @PeterTheDeveoper.
