@@ -9,7 +9,7 @@
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 ### Website Preview
-#### Home Page
+<!-- #### Home Page
 <img src="website_images/HomePage.gif" width="900">
 
 
@@ -19,7 +19,7 @@
 
 #### Projects Page
 <img src="website_images/ProjectPage.png" width="900">
-  
+   -->
 
 
 :star: Star me on GitHub — it helps!
